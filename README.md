@@ -16,4 +16,4 @@ This project compares the performance of counting sort with other two sorting al
 make all 
 
 make clean
-``
+```
