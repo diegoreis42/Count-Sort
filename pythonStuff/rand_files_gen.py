@@ -1,8 +1,4 @@
-# Created by Diego Reis 21/04
-
 import random as r
-
-
 
 def writeRandFile(nome, n: int, ordered = False):
     list = []
