@@ -1,0 +1,15 @@
+100 elementos
+Trocas: 138
+Comparações: 542
+1000 elementos
+Trocas: 1282
+Comparações: 8705
+10000 elementos
+Trocas: 13206
+Comparações: 120425
+100000 elementos
+Trocas: 132926
+Comparações: 1536020
+1000000 elementos
+Trocas: 1277116
+Comparações: 18674329
