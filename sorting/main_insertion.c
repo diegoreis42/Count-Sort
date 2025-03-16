@@ -20,6 +20,7 @@ int main()
   for (int i = 0; i < 5; i++)
   {
     int *v = read_file(arq[i], &Tamanho);
+    printf("Sorting %d elements\n", (int)pow(10, (2 + i)));
     insertion_sort(v, Tamanho, &trc, &cmp);
     print_file(vets[i], Tamanho, v);
 

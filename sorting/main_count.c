@@ -16,7 +16,7 @@ int main()
   if (m == NULL)
     return -1;
 
-  printf("count_sort\n-------------------\nSorting...");
+  printf("CountSort\n-------------------\nSorting...");
 
   for (int i = 0; i < 5; i++)
   {
